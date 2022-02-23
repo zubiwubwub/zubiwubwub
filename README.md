@@ -1,5 +1,5 @@
 
-## My name is Ruslan
+## Hi I'm Ruslan 🖖
 
 - 🔭  Working as an eCommerce Store Setup Specialist @ Printful.
 - 👷🏼‍♂️  I’m currently learning Javascript
